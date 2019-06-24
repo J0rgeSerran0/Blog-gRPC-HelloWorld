@@ -1,0 +1,1 @@
+In this directory goes the link to the service's proto file.
